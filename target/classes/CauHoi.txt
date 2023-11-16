@@ -1,0 +1,174 @@
+23
+1
+############## MultipleChoice ##############
+1 100 1 4 1
+Choose the correct plural form of the noun "child."
+Children
+Childs
+Child
+Chilren
+
+1
+############## MultipleChoice ##############
+2 100 1 4 3
+Choose the correct superlative form of the adjective "fast."
+Fast
+Faster
+Fastest
+Most fast
+
+1
+############## MultipleChoice ##############
+3 100 1 4 1
+Choose the correct opposite of the adjective "happy."
+Sad
+Happier
+Happiest
+Happily
+
+1
+############## MultipleChoice ##############
+4 100 2 4 1
+Choose the correct collective noun for a group of birds.
+Flock 
+School
+Herd
+Pack
+("Flock" la danh tu tap hop 1 nhom chim)
+1
+############## MultipleChoice ##############
+5 100 2 4 2
+Choose the correct collective noun for a group of fish.
+Flock
+Schoo
+Herd
+Pack
+("School" la danh tu tap hop 1 nhom ca)
+1
+############## MultipleChoice ##############
+6 100 2 4 4
+Choose the correct collective noun for a group of lions.
+Flock
+School
+Herd
+Pride 
+("Pride" la danh tu tap hop cho 1 nhom danh tu)
+1
+############## MultipleChoice ##############
+7 100 3 4 3
+Choose the correct abstract noun for the concept of freedom.
+Free
+Freely
+Liberty
+Liberal
+("Liberty" la danh tu truu tuong cho khai niem tu do)
+1
+############## MultipleChoice ##############
+8 100 3 4 3
+Choose the correct abstract noun for the concept of strength.
+Strong
+Strongly
+Strength 
+Strengthen
+("Strength" là danh tu tru tuong cho khhai niem ve suc manh)
+1
+############## MultipleChoice ##############
+9 100 3 4 3
+Choose the correct abstract noun for the concept of beauty.
+Beautiful
+Beautifully
+Beauty 
+Beautify
+("Beauty" la danh tu tru tuong cho khai niem ve ve dep)
+1
+############## MultipleChoice ##############
+10 101 1 4 2
+Choose the correct comparative form of the adjective "big."
+Biger
+Bigger 
+Biggest
+Bigly
+("Bigger" la dang so sanh hon cua tinh tu "big")
+1
+############## MultipleChoice ##############
+11 101 1 4 1
+Choose the correct comparative form of the adjective "happy."
+Happier 
+Happyer
+Happiest
+Happily
+("Happier" la dang so sanh hon cua tinh tu "happy")
+1
+############## MultipleChoice ##############
+12 101 1 4 2
+Choose the correct superlative form of the adjective "small."
+Smaller
+Smallest 
+Smallish
+Smalliest
+("Smallest" la dang so sanh nhat cua tinh tu "small")
+1
+############## MultipleChoice ##############
+13 101 2 4 2
+Choose the correct adjective form: "She has a _______ imagination."
+Creative 
+Creatively
+Creativity
+Creation
+("Creative" la tinh ttu thich hop de mo ta tri tuong tuong cua co ay)
+1
+############## MultipleChoice ##############
+14 101 2 4 1
+Choose the correct adjective form: "The movie was _______ boring."
+Extremely 
+Extremity
+Extreme
+Extremism
+("Extremely" la tinh tu thich hop de tang cuong muc do cua  "boring")
+1
+############## MultipleChoice ##############
+15 101 2 4 1
+Choose the correct adjective form: "The weather was _______ cold."
+Bitterly 
+Bitter
+Bitterness
+Bittering
+("Bitterly" la tinh tu thich hop de mo ta muc do cua "cold")
+1
+############## MultipleChoice ##############
+16 101 3 4 1
+Choose the correct adjective form: "The painting had a _______ effect on the viewers."
+Mesmerizing 
+Mesmerize
+Mesmerized
+Mesmerization
+("Mesmerizing" la tinh tu thich hop de mo ta tac dong cua buc tranh)
+1
+############## MultipleChoice ##############
+17 101 3 4 1
+Choose the correct adjective form: "The situation was _______ difficult."
+Increasingly
+Increase
+Increased
+Increment
+("Increasingly" la tinh tu thch hop de mo ta su gia tang cua "difficult")
+1
+############## MultipleChoice ##############
+18 101 3 4 1
+Choose the correct adjective form: "The problem was _______ complex."
+Incredibly 
+Incredible
+Incredulity
+Incredulous
+("Incredibly" la tinh tu thch hop de mo ta muc do cua "complex")
+3
+############## Incomplete ##############
+22 1 101 3
+The (1)_____ mountain range is known for its (2)_____ peaks and (3)_____ valleys. Many adventurers seek to conquer its (4)_____ heights and explore its hidden secrets.
+2
+Fill in the blank with the correct adjective: "The (1)_____ mountain range is known for its breathtaking peaks and verdant valleys."
+Majesty
+Majestic
+Majestically
+Majesties
+...

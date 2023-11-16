@@ -1,0 +1,341 @@
+24
+1
+############## MultipleChoice ##############
+1 100 1 4 1
+Choose the correct plural form of the noun "child."
+Children
+Childs
+Child
+Chilren
+
+1
+############## MultipleChoice ##############
+2 100 1 4 3
+Choose the correct superlative form of the adjective "fast."
+Fast
+Faster
+Fastest
+Most fast
+
+1
+############## MultipleChoice ##############
+3 100 1 4 1
+Choose the correct opposite of the adjective "happy."
+Sad
+Happier
+Happiest
+Happily
+
+1
+############## MultipleChoice ##############
+4 100 2 4 1
+Choose the correct collective noun for a group of birds.
+Flock 
+School
+Herd
+Pack
+("Flock" la danh tu tap hop 1 nhom chim)
+1
+############## MultipleChoice ##############
+5 100 2 4 2
+Choose the correct collective noun for a group of fish.
+Flock
+School
+Herd
+Pack
+("School" la danh tu tap hop 1 nhom ca)
+1
+############## MultipleChoice ##############
+6 100 2 4 4
+Choose the correct collective noun for a group of lions.
+Flock
+School
+Herd
+Pride 
+("Pride" la danh tu tap hop cho 1 nhom danh tu)
+1
+############## MultipleChoice ##############
+7 100 3 4 3
+Choose the correct abstract noun for the concept of freedom.
+Free
+Freely
+Liberty
+Liberal
+("Liberty" la danh tu truu tuong cho khai niem tu do)
+1
+############## MultipleChoice ##############
+8 100 3 4 3
+Choose the correct abstract noun for the concept of strength.
+Strong
+Strongly
+Strength 
+Strengthen
+("Strength" là danh tu tru tuong cho khhai niem ve suc manh)
+1
+############## MultipleChoice ##############
+9 100 3 4 3
+Choose the correct abstract noun for the concept of beauty.
+Beautiful
+Beautifully
+Beauty 
+Beautify
+("Beauty" la danh tu tru tuong cho khai niem ve ve dep)
+1
+############## MultipleChoice ##############
+10 101 1 4 2
+Choose the correct comparative form of the adjective "big."
+Biger
+Bigger 
+Biggest
+Bigly
+("Bigger" la dang so sanh hon cua tinh tu "big")
+1
+############## MultipleChoice ##############
+11 101 1 4 1
+Choose the correct comparative form of the adjective "happy."
+Happier 
+Happyer
+Happiest
+Happily
+("Happier" la dang so sanh hon cua tinh tu "happy")
+1
+############## MultipleChoice ##############
+12 101 1 4 2
+Choose the correct superlative form of the adjective "small."
+Smaller
+Smallest 
+Smallish
+Smalliest
+("Smallest" la dang so sanh nhat cua tinh tu "small")
+1
+############## MultipleChoice ##############
+13 101 2 4 2
+Choose the correct adjective form: "She has a _______ imagination."
+Creative 
+Creatively
+Creativity
+Creation
+("Creative" la tinh ttu thich hop de mo ta tri tuong tuong cua co ay)
+1
+############## MultipleChoice ##############
+14 101 2 4 1
+Choose the correct adjective form: "The movie was _______ boring."
+Extremely 
+Extremity
+Extreme
+Extremism
+("Extremely" la tinh tu thich hop de tang cuong muc do cua  "boring")
+1
+############## MultipleChoice ##############
+15 101 2 4 1
+Choose the correct adjective form: "The weather was _______ cold."
+Bitterly 
+Bitter
+Bitterness
+Bittering
+("Bitterly" la tinh tu thich hop de mo ta muc do cua "cold")
+1
+############## MultipleChoice ##############
+16 101 3 4 1
+Choose the correct adjective form: "The painting had a _______ effect on the viewers."
+Mesmerizing 
+Mesmerize
+Mesmerized
+Mesmerization
+("Mesmerizing" la tinh tu thich hop de mo ta tac dong cua buc tranh)
+1
+############## MultipleChoice ##############
+17 101 3 4 1
+Choose the correct adjective form: "The situation was _______ difficult."
+Increasingly
+Increase
+Increased
+Increment
+("Increasingly" la tinh tu thch hop de mo ta su gia tang cua "difficult")
+1
+############## MultipleChoice ##############
+18 101 3 4 1
+Choose the correct adjective form: "The problem was _______ complex."
+Incredibly 
+Incredible
+Incredulity
+Incredulous
+("Incredibly" la tinh tu thch hop de mo ta muc do cua "complex")
+2
+############## Conversation ##############
+19 4 105 3
+Anna and her friends decided to have a fun day at the amusement park. They tried various rides, such as the roller coaster, the Ferris wheel, and the bumper cars. They also ate cotton candy and popcorn while enjoying the park's atmosphere. After a long day, they watched the fireworks display before heading home.
+3
+Where did Anna and her friends spend their day?
+At a museum
+At a beach
+At an amusement park
+At a zoo
+(Anna va ban be di vui choi o cong vien giai tri)
+1
+What rides did they try at the amusement park?
+Roller coaster, Ferris wheel, and bumper cars
+Water slides and lazy river
+Swings and roundabouts
+Haunted house and escape room
+(Ho thu cac tro choi nhu tau luon, du quay va xe dam nhau)
+2
+What did they eat at the amusement park?
+Hamburgers and hotdogs
+Cotton candy and popcorn
+Pizza and ice cream
+Sandwiches and salads
+(Ho an bong keo va bong ngo)
+4
+What did Anna and her friends watch at the end of the day?
+A movie
+A theater play
+A music concert
+Fireworks display
+(Ho xem man ban phao hoa truoc khi ve nha)
+2
+############## Conversation ##############
+20 3 105 1
+Lisa is an accomplished pianist who has been playing since she was five years old. She practices several hours a day and has won several awards for her performances. Lisa enjoys playing both classical and contemporary music and has performed in many concerts around the world. She also teaches piano to students of all ages and levels
+2
+When did Lisa start playing the piano?
+When she was ten years old
+When she was five years old
+When she was fifteen years old
+When she was twenty years old
+(Co ay choi piano khi 5 tuoi)
+2
+How often does Lisa practice the piano?
+Once a week
+Several hours a day
+Once a month
+Only before a performance
+(Li sa tap luyen moi ngay va danh duoc nhieu giai thuong cho cac buoi bieu dien cua minh)
+3
+What types of music does Lisa enjoy playing?
+Only classical music
+Only contemporary music
+Both classical and contemporary music
+Jazz music
+(Lisa thich choi nhac co dien va ca nhac duong dai)
+2
+############## Conversation ##############
+21 4 105 2
+John is a skilled basketball player who has been playing since he was a young boy. He practices every day to improve his skills and regularly plays in local leagues and tournaments. John enjoys playing both offense and defense and is known for his impressive shooting and passing abilities. He also coaches a youth basketball team in his community.
+2
+Q: What sport does John play?
+Football
+Basketball
+Baseball
+Soccer
+
+3
+What sport does John play?
+Football
+Basketball
+Baseball
+Soccer
+
+3
+What aspects of basketball does John enjoy playing?
+Only offense
+Only defense
+Both offense and defense
+Refereeing
+
+3
+Does John coach a basketball team?
+Yes, a college team
+Yes, a professional team
+Yes, a youth team
+No, he only plays in leagues and tournaments
+
+2
+############## Conversation ##############
+22 4 105 1
+Last weekend, Emily and her family went on a trip to the mountains. They stayed in a cozy cabin near a beautiful lake. During their stay, they went hiking, had a picnic by the lake, and enjoyed taking photos of the stunning scenery. In the evening, they gathered around the fireplace and shared stories with each other.
+2
+Where did Emily and her family go last weekend?
+To the beach
+To the mountains
+To the city
+To the countryside
+(Emily va gia dinh di nui vao cuoi tuan)
+4
+What kind of accommodation did they stay in?
+A hotel
+A tent
+A cabin
+A house
+(Ho o trong mot can nha go)
+2
+What did they do during their stay in the mountains?
+They went shopping and watched movies
+They went hiking, had a picnic, and took photos
+They went swimming and sunbathing
+They attended a conference
+(Ho di leo nui, an picnic va chup anh)
+3
+What did Emily and her family do in the evening?
+They went to a restaurant
+They watched a movie
+They gathered around the fireplace and shared stories
+They played board games
+(Ho quay quan ben lo suoi va ke chuyen cho nhau nghe)
+2
+############## Conversation ##############
+23 4 105 2
+Susan is a dedicated runner who enjoys participating in marathons. She trains every day, running several miles each time, and follows a strict diet to maintain her endurance. Susan has completed numerous marathons and has even won a few. She also encourages her friends and family to join her in her love of running and often participates in charity races to support causes she believes in.
+2
+What is Susan's favorite activity?
+Swimming
+Running
+Biking
+Hiking
+(Trong doan van Susan duoc mieu ta la 1 nguoi chay bo nhiet tinh)
+3
+How often does Susan train for running?
+Once a week
+Twice a week
+Every day
+Only before a marathon
+(Susan luyen tap moi ngay)
+1
+What does Susan do to maintain her endurance for running?
+Follows a strict diet
+Takes supplements
+Runs shorter distances
+Doesn't do anything
+(Anh ta an kien de duy tri suc ben khi chay bo)
+4
+What has Susan accomplished in her running career?
+Completed numerous marathons
+Won several marathons
+Encouraged friends and family to join her in running
+All of the above
+(Trong doan van, Susan duoc mieu ta la da hoan thanh nhieu cuoc chay marathon va cung da gianh chien thang trong mot so cuoc thi. Co ay cung khuyen khich ban be va gia dinh tham gia voi co ay trong viec chay bo va thuong xuyen tham gia cac cuoc dua tu thien de ho tro cac nguyen nhan ma co ay tin tuong.)
+2
+############## Conversation ##############
+24 3 100 2
+dsgedfg
+3
+ s;dlkfjg ;lksdf;gk sd;fg;ds fg;s
+dslkf g;sdk fglks dfg; sd;f
+;sdlfkg ;dsg l;dsfg ks;d fg;
+s ;dlfk g;dsfkgj ;ksdg kds;fg j
+sdl;fkg ;dkfgkd fg;lds
+null
+4
+sd;lfkg ;lsdkfg ;ldksfg
+s;dlfkg j;sdlfkg
+s;dlfkg j;sdklf
+s;ldkfgj ;lsdkfg
+s;ldfkg ;sld
+null
+3
+;dslkfg ;sldfk
+s;dlfkg j;sdl
+sfkgj ;dl;lskdfjg
+s;ldfkgj ;dskfg
+flkgj sd;;lsdkfgj
+null
